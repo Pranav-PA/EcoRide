@@ -92,7 +92,7 @@ FRONTEND_URL=http://localhost:5008
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/DilipDD26/Ecoride.git
+git clone https://github.com/Pranav-PA/Ecoride.git
 cd Ecoride
 ```
 
