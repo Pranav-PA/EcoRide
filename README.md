@@ -4,7 +4,7 @@ It features secure authentication, smart route matching, smooth booking, and res
 
 <div align="center">
 ✨ Eco-Friendly ▪ Cost-Effective ▪ Smart Mobility ✨  
-👨‍💻 Developed by <strong>Dilip Das M Nayaka</strong> & <strong>Akshobya</strong>  
+👨‍💻 Developed by <strong>Pranav P Aradhya </strong> , <strong>Dilip Das M Nayaka</strong> & <strong>Akshobya</strong>  
 </div>
 
 ---
@@ -183,6 +183,7 @@ GET /api/notifications
 ## 👥 Developers
 👨‍💻 **Dilip Das M Nayaka**  
 👨‍💻 **Akshobya A S**
+👨‍💻 **Pranav P Aradhya**
 
 ---
 
